@@ -1,0 +1,191 @@
+.header-top {
+    width: 100%;
+    height: 30px;
+    background-color: #db5c00;
+    float: left;
+}
+.sitelogo  a img {
+    width: 30%;
+}
+.header-inner {
+    position: relative;
+}
+.main-menu {
+    /* top: 10px; */
+    position: relative;
+}
+.main-menu > ul > li {
+    display: inline-block;
+    padding: 20px; 
+    font-size: 16px;
+    font-weight: 550;
+    top: 50px;
+}
+
+.main-menu > ul > li:hover {
+    text-decoration: underline;
+}
+ul > li > a {
+    color: #db5c00;
+    padding: 15px 0;
+}
+
+li > i {
+    margin-right: 10px;
+    color: #db5c00;
+}
+div.body-top {
+    width: 100%;
+}
+div.col-5 {
+    height: 250px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+div.book-ticket {
+    text-align: center;
+    height: 30px;
+    padding-top: 5px;
+    background-color: #db5c00;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+div.book-ticket > i {
+    margin-right: 10px;
+
+}
+div.row-1 {
+    width: 100%;
+    padding: 30px 10px;
+}
+div.row-2 {
+    padding: 30px 10px;
+}
+div.rule {
+    margin-left: 15px;
+}
+div.rule > button {
+    width: 180px;
+    height: 25px;
+    background-color: #db5c00;
+}
+div.rule button >a {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+div.row-3 {
+    padding: 30px 10px;
+}
+div.find-ticket button{
+    width: 200px;
+    height: 28px;
+    background-color: #db5c00;
+}
+
+div.find-ticket button a {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+div.tutorial-buy-ticket {
+    margin-left: 15px;
+}
+div.tutorial-buy-ticket button {
+    width: 180px;
+    height: 28px;
+    background-color: #db5c00;
+}
+div.tutorial-buy-ticket button a {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+div.col-7 img {
+    height: 300px;
+    width: 100%;
+}
+
+div.info-owner {
+    position: relative;
+    top: 20px;
+}
+div.note {
+    text-overflow: unset;
+    font-size: 20px;
+    color: #db5c00;
+    padding-bottom: 30px;
+}
+
+div.phone h3 {
+    font-size: 25px;
+    text-align: center;
+    color: green;
+    padding-bottom: 10px;
+}
+div.phone {
+    text-align: center;
+    padding-top: 10px;
+}
+div.phone span a{
+    color: #db5c00;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+div.coach img{
+    width: 100%;
+    height: 80px;
+}
+div.banner {
+    text-align: center;
+    padding-top: 15px;
+    margin: 0 1%;
+}
+div.banner img {
+    width: 100%;
+}
+div.footer {
+    position: relative;
+    top: 20px;
+    background-color: #db5c00;
+    width: 100%;
+    height: 150px;
+}
+div.contact {
+    padding-top: 10px;
+    font-size: 18px;
+}
+div.contact p {
+    color: white;
+    line-height: 30px;
+}
+div.contact p >i {
+    margin-right: 5px;
+}
+div.contact span a{
+    color: white;
+    line-height: 25px;
+}
+div.contact span > i {
+    color: white;
+    margin-right: 5px;
+}
+div.confirm {
+    padding-top: 40px;
+}
+div.confirm img {
+    width: 95%;
+}
+
+div.social {
+    padding-top: 30px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+div.social i {
+    color: white;
+    padding: 10px;
+}
